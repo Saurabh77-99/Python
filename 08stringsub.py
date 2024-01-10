@@ -16,6 +16,13 @@ mstepsub = name [::3]
 
 reversed = name[::-1]
 
+website = "http://google.com"
+web = "http://wikepedia.com"
+slice = slice(7,-4)
+
+print(website[slice])
+print(web[slice])
+
 print(first_name)
 print(ofirst_name)
 
