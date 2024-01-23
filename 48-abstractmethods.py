@@ -40,3 +40,6 @@ motorcycle = Motorcycle()
 car.go()
 motorcycle.go()
 
+car.stop()
+motorcycle.stop()
+
